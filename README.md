@@ -7,8 +7,8 @@ Dataset source: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Pres
 
 Hope to show some insights from the data including:
 
-*What type of crime is most prevalent?
-*What type of crime is least prevalent?
+* What type of crime is most prevalent?
+* What type of crime is least prevalent?
 *Where was there more crime? Show on Map
 *Where was there less crime? Show on Map
 *Where did most batteries occured? Show on Map
