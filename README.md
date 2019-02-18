@@ -18,4 +18,4 @@ Hope to show some insights from the data including:
 Lastly we want to show whether or not crime is increasing or decreasing in the city of Angels
 -Is crime increasing or decreasing in time? Show on Plot
 
-https://i.ytimg.com/vi/hPand5uvemA/maxresdefault.jpg
+![alt text](https://i.ytimg.com/vi/hPand5uvemA/maxresdefault.jpg)
