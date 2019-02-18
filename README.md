@@ -9,9 +9,9 @@ Hope to show some insights from the data including:
 
 * What type of crime is most prevalent?
 * What type of crime is least prevalent?
-* Where was there more crime? Show on Map
-* Where was there less crime? Show on Map
-* Where did most batteries occured? Show on Map
+* Where was there more crime? *Show on Map*
+* Where was there less crime? *Show on Map*
+* Where did most batteries occured? *Show on Map
 * When did crimes occured? Show on Plot
 * Show crime by area_name
 
