@@ -8,6 +8,7 @@ Main Observations:
 ![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
 - Most murder victims are men(85% more than women).
 - Most murder victims are Hispanic.
+- Most murders happen on the street(72% more than a house or an appartment)
 - Most murders happened in region: 77st Street.
 ![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
 - In general, there is an equal distribution of crime incidents between Men and Women but each gender dominate in different types of crime. For example, most murders happen to more men(85%) while most batteries happen to more women.
@@ -54,7 +55,7 @@ Which region had more crime incidents?
 |Pacific       | 100906
 |Southeast     | 100288
 
-Where was there less crime?
+Where region was there less crime?
 ---
 |Region|Count
 |---|---:
@@ -64,7 +65,7 @@ Where was there less crime?
 |Foothill     | 72360
 |Hollenbeck   | 70000
 
-Which area did most murders occured?
+Which region did most murders occured?
 ---
 |Region|Count
 |---|---:
@@ -74,7 +75,7 @@ Which area did most murders occured?
 |Southwest      |206
 |Hollenbeck     |149
 
-Which area did most rapes occured?
+Which region did most rapes occured?
 ---
 |Region|Count
 |---|---:
@@ -83,6 +84,26 @@ Which area did most rapes occured?
 |Southwest      |617
 |Southeast      |571
 |Central        |569
+
+Where do most crimes happen?
+---
+|Premise Type|Count
+|---|---:
+|STREET                                         | 425932
+|SINGLE FAMILY DWELLING                         | 388629
+|MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)   | 241744
+|PARKING LOT                                    | 135229
+|SIDEWALK                                       |  95228
+
+Where do most murders happen?
+---
+|Premise Type|Count
+|---|---:
+|STREET                                           | 836
+|SIDEWALK                                         | 539
+|SINGLE FAMILY DWELLING                           | 240
+|MULTI-UNIT DWELLING (APARTMENT, DUPLEX, ETC)     | 238
+|PARKING LOT                                      | 146
 
 Victims by Race
 ---
