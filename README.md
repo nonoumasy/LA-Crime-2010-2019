@@ -21,6 +21,8 @@ Main Observations:
 - Most Robberies occured at 77st Street with the least amount occuring at West LA(85% less).
 - Murders are decreasing. There was an all-time low in 2013 climbed up and are going down again.
 ![Murders](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_murders.png)
+- There were 0 crime incidents against Korean men between 20-30 years old in 2018.
+
 
 
 
@@ -146,4 +148,5 @@ References:
 - https://www.neighborhoodscout.com/ca/los-angeles/crime
 - https://www.crimemapping.com/map/ca/losangeles
 - https://www.nbclosangeles.com/news/local/Los-Angeles-crime-is-down-505003451.html
+- http://worldpopulationreview.com/us-cities/los-angeles-population/
 
