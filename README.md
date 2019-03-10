@@ -34,7 +34,7 @@ What type of crime is most prevalent?
 | BURGLARY                           |  135867
 | THEFT PLAIN - PETTY ($950 & UNDER) |  135333
 
-What type of crime is most prevalent?
+What type of crime is least prevalent?
 ---
 |Crime|Count
 |---|---:
