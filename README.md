@@ -11,6 +11,8 @@ Main Observations:
 - Is crime increasing or decreasing in time?
 - 
 
+![text]('https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png')
+
 What type of crime is most prevalent?
 - BATTERY - SIMPLE ASSAULT              - 172969
 - BURGLARY FROM VEHICLE                 - 146743
