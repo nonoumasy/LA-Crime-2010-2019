@@ -9,7 +9,7 @@ Main Observations:
 - Most murder victims are men(85% more than women).
 - Most murder victims are Hispanic.
 - Most murders happen on the street(72% more than a house or an appartment)
-- Most murders happened in region: 77st Street.
+- Most murders happened in region: 77st Street(16% more than the second highest).
 ![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
 - In general, there is an equal distribution of crime incidents between Men and Women but each gender dominate in different types of crime. For example, most murders happen to more men(85%) while most batteries happen to more women.
 - Main type of crime on women is battery(14% more battery than men).
