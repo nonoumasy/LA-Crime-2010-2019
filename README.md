@@ -3,14 +3,14 @@ This is an analysis of Los Angeles Crime Data.
 Main Observations:
 - Most crime incidents occur on Thursdays
 - Majority of crime incidents occur around 12pm(noon)
+- There is an uptick on the weekend
+- Least active time for crime is between 3-7 am
+![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
+
 - Most murders happened in region: 77st Street.
 ![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
 - Most victims are Latino, followed by White, and then Black.
 - Victims are almost equally distributed between Men and Women.
-![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
-- Most crime happens during noontime
-- There is an uptick on the weekend
-- Least active time for crime is between 3-7 am
 
 
 - How many crime incidents per day?
