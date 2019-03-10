@@ -10,11 +10,13 @@ Main Observations:
 - What time of day did most crimes occur? 12pm(noon)
 - Is crime increasing or decreasing in time?
 - Most victims are Latino, followed by White
+- Victims are almost equally distributed between Men and Women
+
 
 ![Serious Crimes by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
-- Most serious crime happen during noontime
+- Most crime happens during noontime
 - There is an uptick on the weekend
-- Least active time for serious crime is between 3-7 am
+- Least active time for crime is between 3-7 am
 
 What type of crime is most prevalent?
 - BATTERY - SIMPLE ASSAULT              - 172969
