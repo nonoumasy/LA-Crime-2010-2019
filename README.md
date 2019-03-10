@@ -6,8 +6,10 @@ Time Period: 2015-2019
 Dataset source: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 
 Main Observations:
-- Is crime increasing or decreasing in time? Show on Plot
-- When did crimes occured?
+- What day did most crimes occur? Thursdays
+- What time of day did most crimes occur? 12pm(noon)
+- Is crime increasing or decreasing in time?
+- 
 
 What type of crime is most prevalent?
 - BATTERY - SIMPLE ASSAULT              - 172969
