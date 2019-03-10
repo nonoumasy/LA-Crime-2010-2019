@@ -6,13 +6,12 @@ Main Observations:
 - There is an uptick on the weekend
 - Least active time for crime is between 3-7 am
 ![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
-
-- Most murders happened in region: 77st Street.
 - Most murder victims are men(85% more than women).
 - Most murder victims are Hispanic.
-![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
 - Most victims are Latino, followed by White, and then Black.
-- Victims are almost equally distributed between Men and Women.
+- Most murders happened in region: 77st Street.
+![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
+- In general, there is an equal distribution of crime incidents between Men and Women but each gender dominate in different types of crime. For example, most murders happen to more men while most batteries happen to more women.
 - Main type of crime on women is battery(14% more battery than men).
 - Every year there is an average of 190652 crime incidents in LA.
 - Every day there is an average of 522 crime incidents in LA.
