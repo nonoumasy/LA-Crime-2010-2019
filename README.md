@@ -18,8 +18,8 @@ Main Observations:
 - The Hollenbeck region has the least number of crime incidents. There is 47% less crime here than the region with the most crime(77th Street).
 - Most rapes occured at 77st Street with the least amount occuring at Devonshire and West LA(57% less).
 - Most Robberies occured at 77st Street with the least amount occuring at West LA(85% less).
-- Are murders increasing or decreasing in time?
-
+- Murders are decreasing. There was an all-time low in 2013 climbed up and are going down again.
+![Murders](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_murders.png)
 
 
 
