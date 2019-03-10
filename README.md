@@ -1,9 +1,4 @@
-# I'm Batman
 This is an analysis of Los Angeles Crime Data.
-
-Time Period: 2015-2019
-
-Dataset source: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 
 Main Observations:
 - What day did most crimes occur? Thursdays
@@ -11,6 +6,13 @@ Main Observations:
 - Is crime increasing or decreasing in time?
 - Most victims are Latino, followed by White
 - Victims are almost equally distributed between Men and Women
+- How many crime incidents per day?
+- Which areas are the most dangerous in terms of crime incidents in LA?
+- Which areas are the least dangerous in terms of crime incidents in LA?
+- Most murders occured at , the majority of the victims were gender and this old
+- Most rapes occured at
+- Most Robber occured at
+
 
 
 ![Serious Crimes by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
@@ -74,4 +76,18 @@ Victims by Race
 - Pacific Islander         - 263
 - Japanese                 - 235
 - Hawaiin                  - 133
+
+
+Notes:
+
+- Datasource : https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
+- Dataset Guide: https://data.lacity.org/api/views/y8tr-7khq/files/3a2acdce-ef66-4cd6-b32c-ca6fa9c5336f?download=true&filename=MO_CODES_Numerical_20180627.pdf
+
+
+References:
+- https://www.latimes.com/local/lanow/la-me-lapd-crime-stats-20181229-story.html
+- https://www.areavibes.com/los+angeles-ca/crime/
+- https://www.neighborhoodscout.com/ca/los-angeles/crime
+- https://www.crimemapping.com/map/ca/losangeles
+- https://www.nbclosangeles.com/news/local/Los-Angeles-crime-is-down-505003451.html
 
