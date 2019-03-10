@@ -1,7 +1,8 @@
 > *"Data! Data! Data!’ he cried impatiently. ‘I can’t make bricks without clay.” - Sherlock Holmes*
 
 
-This is an analysis of Los Angeles Crime Incidents 2015-2019.
+
+# H1 This is an analysis of Los Angeles Crime Incidents 2015-2019.
 
 Main Observations:
 - Most crime incidents occur on Fridays
