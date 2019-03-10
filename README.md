@@ -9,7 +9,7 @@ Main Observations:
 - What day did most crimes occur? Thursdays
 - What time of day did most crimes occur? 12pm(noon)
 - Is crime increasing or decreasing in time?
-- 
+- Most victims are Latino, followed by White
 
 ![Serious Crimes by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
 - Most serious crime happen during noontime
@@ -57,4 +57,19 @@ Where did most rapes occured?
 - Southwest      - 617
 - Southeast      - 571
 - Central        - 569
+
+Victims by Race
+- Hispanic/Latin/Mexican   - 518692
+- White                    - 370335
+- Black                    - 241000
+- Other                    - 143435
+- Unknow                   - 36568
+- Other Asian              - 34923
+- Korean                   - 6810
+- Filipino                 - 1786
+- American Indian          - 632
+- Chinese                  - 549
+- Pacific Islander         - 263
+- Japanese                 - 235
+- Hawaiin                  - 133
 
