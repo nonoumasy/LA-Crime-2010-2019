@@ -8,15 +8,17 @@ Main Observations:
 ![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
 
 - Most murders happened in region: 77st Street.
+- Most murder victims are men(85% more than women).
+- Most murder victims are Hispanic.
 ![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
 - Most victims are Latino, followed by White, and then Black.
 - Victims are almost equally distributed between Men and Women.
+- Main type of crime on women is battery(14% more battery than men).
+- Every year there is an average of 190652 crime incidents in LA.
+- Every day there is an average of 522 crime incidents in LA.
+- The Hollenbeck region has the least number of crime incidents. There is 47% less crime here than the region with the most crime.
 
 
-- How many crime incidents per day?
-- Which areas are the most dangerous in terms of crime incidents in LA?
-- Which areas are the least dangerous in terms of crime incidents in LA?
-- Most murders occured at , the majority of the victims were gender and this old
 - Most rapes occured at
 - Most Robber occured at
 - Is crime increasing or decreasing in time?
@@ -101,6 +103,17 @@ Victims by Race
 |Pacific Islander         | 263
 |Japanese                 | 235
 |Hawaiin                  | 133
+
+Murder Victims by Race
+---
+|Race|Count
+|---|---:
+|Hispanic/Latin/Mexican  | 990
+|Black                   | 804
+|White                   | 179
+|Other Asian             |  52
+|American Indian         |  23
+
 
 
 Notes:
