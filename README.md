@@ -1,7 +1,7 @@
 This is an analysis of Los Angeles Crime Data.
 
 Main Observations:
-- Most crime incidents occur on Thursdays
+- Most crime incidents occur on Fridays
 - Majority of crime incidents occur around 12pm(noon)
 - There is an uptick on the weekend
 - Least active time for crime is between 3-7 am
