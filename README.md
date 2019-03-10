@@ -16,11 +16,9 @@ Main Observations:
 - Every year there is an average of 190652 crime incidents in LA.
 - Every day there is an average of 522 crime incidents in LA.
 - The Hollenbeck region has the least number of crime incidents. There is 47% less crime here than the region with the most crime(77th Street).
-
-
-- Most rapes occured at
-- Most Robber occured at
-- Is crime increasing or decreasing in time?
+- Most rapes occured at 77st Street with the least amount occuring at Devonshire and West LA(57% less).
+- Most Robberies occured at 77st Street with the least amount occuring at West LA(85% less).
+- Are murders increasing or decreasing in time?
 
 
 
