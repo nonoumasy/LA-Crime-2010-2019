@@ -1,4 +1,4 @@
-"Data! Data! Data!’ he cried impatiently. ‘I can’t make bricks without clay.” - Sherlock Holmes
+*"Data! Data! Data!’ he cried impatiently. ‘I can’t make bricks without clay.” - Sherlock Holmes*
 
 
 This is an analysis of Los Angeles Crime Data.
