@@ -1,17 +1,19 @@
 This is an analysis of Los Angeles Crime Data.
 
 Main Observations:
-- What day did most crimes occur? Thursdays
-- What time of day did most crimes occur? 12pm(noon)
-- Is crime increasing or decreasing in time?
-- Most victims are Latino, followed by White
-- Victims are almost equally distributed between Men and Women
+- Most crime incidents occur on Thursdays
+- Majority of crime incidents occur around 12pm(noon)
+- Most murders happened in region: 77st Street.
+- Most victims are Latino, followed by White, and then Black.
+- Victims are almost equally distributed between Men and Women.
+
 - How many crime incidents per day?
 - Which areas are the most dangerous in terms of crime incidents in LA?
 - Which areas are the least dangerous in terms of crime incidents in LA?
 - Most murders occured at , the majority of the victims were gender and this old
 - Most rapes occured at
 - Most Robber occured at
+- Is crime increasing or decreasing in time?
 
 
 
@@ -48,14 +50,14 @@ Where was there less crime?
 - Foothill     - 72360
 - Hollenbeck   - 70000
 
-Where did most batteries occured?
-- 77th Street    - 13978
-- Central        - 12978
-- Southwest      - 12957
-- Southeast      - 10503
-- Olympic        - 10006
+Which area did most murders occured?
+- 77th Street    - 406
+- Southeast      - 345
+- Newton         - 217
+- Southwest      - 206
+- Hollenbeck     - 149
 
-Where did most rapes occured?
+Which area did most rapes occured?
 - 77th Street    - 726
 - Hollywood      - 661
 - Southwest      - 617
