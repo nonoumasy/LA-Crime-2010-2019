@@ -14,6 +14,7 @@ Main Observations:
 ![Serious Crimes by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
 - Most serious crime happen during noontime
 - There is an uptick on the weekend
+- Least active time for serious crime is between 3-7 am
 
 What type of crime is most prevalent?
 - BATTERY - SIMPLE ASSAULT              - 172969
