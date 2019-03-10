@@ -5,7 +5,9 @@ Time Period: 2015-2019
 
 Dataset source: https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 
-Main Observations
+Main Observations:
+- Is crime increasing or decreasing in time? Show on Plot
+- When did crimes occured?
 
 What type of crime is most prevalent?
 - BATTERY - SIMPLE ASSAULT              - 172969
@@ -42,13 +44,10 @@ Where did most batteries occured?
 - Southeast      - 10503
 - Olympic        - 10006
 
-Where did most batteries occured?
+Where did most rapes occured?
 - 77th Street    - 726
 - Hollywood      - 661
 - Southwest      - 617
 - Southeast      - 571
 - Central        - 569
 
-* When did crimes occured? *Show on Chart*
-* Show crime by area_name
-* Is crime increasing or decreasing in time? Show on Plot
