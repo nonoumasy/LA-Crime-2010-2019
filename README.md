@@ -8,6 +8,7 @@ Main Observations:
 ![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_crime.png)
 - Most murder victims are men(85% more than women).
 - Most murder victims are Hispanic.
+![Crime incidents by Day of Week and Hour](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_race.png)
 - Most murders happen on the street(72% more than a house or an appartment)
 - Most murders happened in region: 77st Street(16% more than the second highest).
 ![Image](http://www.lapdwilshire.com/uploads/3/0/7/1/30711601/6222770.jpg?816)
