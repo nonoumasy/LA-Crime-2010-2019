@@ -29,69 +29,81 @@ Main Observations:
 
 What type of crime is most prevalent?
 ---
-|---|---|
-| BATTERY - SIMPLE ASSAULT           |  172969 |
-| BURGLARY FROM VEHICLE              |  146743 |
-| VEHICLE - STOLEN                   |  145721 |
-| BURGLARY                           |  135867 |
-| THEFT PLAIN - PETTY ($950 & UNDER) |  135333 |
+|Crime|Count
+|---|---:
+| BATTERY - SIMPLE ASSAULT           |  172969
+| BURGLARY FROM VEHICLE              |  146743
+| VEHICLE - STOLEN                   |  145721
+| BURGLARY                           |  135867
+| THEFT PLAIN - PETTY ($950 & UNDER) |  135333
 
 What type of crime is most prevalent?
 ---
-|---|---|
-| BLOCKING DOOR INDUCTION CENTER            | 3 |
-| TILL TAP - ATTEMPT                        | 3 |
-| TRAIN WRECKING                            | 2 |
-| FIREARMS RESTRAINING ORDER (FIREARMS RO)  | 2 |
-| DRUNK ROLL - ATTEMPT                      | 1 |
+|Crime|Count
+|---|---:
+| BLOCKING DOOR INDUCTION CENTER            | 3 
+| TILL TAP - ATTEMPT                        | 3 
+| TRAIN WRECKING                            | 2 
+| FIREARMS RESTRAINING ORDER (FIREARMS RO)  | 2 
+| DRUNK ROLL - ATTEMPT                      | 1 
 
 Which region had more crime incidents?
-
-- 77th Street   - 131722
-- Southwest     - 122674
-- N Hollywood   - 103320
-- Pacific       - 100906
-- Southeast     - 100288
+---
+|Region|Count
+|---|---:
+|77th Street   | 131722
+|Southwest     | 122674
+|N Hollywood   | 103320
+|Pacific       | 100906
+|Southeast     | 100288
 
 Where was there less crime?
 ---
-- Rampart      - 80521
-- West LA      - 80127
-- Wilshire     - 78481
-- Foothill     - 72360
-- Hollenbeck   - 70000
+|Region|Count
+|---|---:
+|Rampart      | 80521
+|West LA      | 80127
+|Wilshire     | 78481
+|Foothill     | 72360
+|Hollenbeck   | 70000
 
 Which area did most murders occured?
 ---
-- 77th Street    - 406
-- Southeast      - 345
-- Newton         - 217
-- Southwest      - 206
-- Hollenbeck     - 149
+|Region|Count
+|---|---:
+|77th Street    |406
+|Southeast      |345
+|Newton         |217
+|Southwest      |206
+|Hollenbeck     |149
 
 Which area did most rapes occured?
 ---
-- 77th Street    - 726
-- Hollywood      - 661
-- Southwest      - 617
-- Southeast      - 571
-- Central        - 569
+|Region|Count
+|---|---:
+|77th Street    |726
+|Hollywood      |661
+|Southwest      |617
+|Southeast      |571
+|Central        |569
 
 Victims by Race
 ---
-- Hispanic/Latin/Mexican   - 518692
-- White                    - 370335
-- Black                    - 241000
-- Other                    - 143435
-- Unknow                   - 36568
-- Other Asian              - 34923
-- Korean                   - 6810
-- Filipino                 - 1786
-- American Indian          - 632
-- Chinese                  - 549
-- Pacific Islander         - 263
-- Japanese                 - 235
-- Hawaiin                  - 133
+|Race|Count
+|---|---:
+|Hispanic/Latin/Mexican   | 518692
+|White                    | 370335
+|Black                    | 241000
+|Other                    | 143435
+|Unknow                   | 36568
+|Other Asian              | 34923
+|Korean                   | 6810
+|Filipino                 | 1786
+|American Indian          | 632
+|Chinese                  | 549
+|Pacific Islander         | 263
+|Japanese                 | 235
+|Hawaiin                  | 133
 
 
 Notes:
