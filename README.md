@@ -1,4 +1,5 @@
 # Analysis of Los Angeles Crime Incidents 2015-2019
+last updated: 03.12.19
 
 Main Observations:
 - Most crime incidents occur on Fridays
