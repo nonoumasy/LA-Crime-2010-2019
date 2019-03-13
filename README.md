@@ -22,6 +22,8 @@ Main Observations:
 - Murders are decreasing. There was an all-time low in 2013 climbed up and are going down again.
 ![Murders](https://github.com/nonoumasy/LA-Crime-Data-2015-2019/blob/master/la_murders.png)
 - There were 0 crime incidents against Korean men between 20-30 years old in 2018.
+- In 10% of all crime incidents, there is an adult arrest.
+- There are 93% more adult arrests than juvinile arrests.
 
 
 
@@ -134,6 +136,17 @@ Murder Victims by Race
 |Other Asian             |  52
 |American Indian         |  23
 
+
+Crime incident status:
+---
+|Status|Count
+|---|---:
+|Invest Cont    | 1473348
+|Adult Other    |  218283
+|Adult Arrest   |  195470
+|Juv Arrest     |   14673
+|Juv Other      |    4721
+|UNK            |      30
 
 
 Notes:
