@@ -1,10 +1,6 @@
 # Analysis of Los Angeles Crime Incidents 2010-2020
 last updated: 03.12.19
 
-Northeast Crime Map 2019:
-http://doineedavisa.org/northeast.html
-
-
 Main Observations:
 - Most crime incidents occur on Fridays
 - Majority of crime incidents occur around 12pm(noon)
