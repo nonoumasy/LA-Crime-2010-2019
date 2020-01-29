@@ -1,4 +1,4 @@
-# Analysis of Los Angeles Crime Incidents 2015-2019
+# Analysis of Los Angeles Crime Incidents 2010-2020
 last updated: 03.12.19
 
 Northeast Crime Map 2019:
