@@ -161,7 +161,7 @@ Crime incident status:
 
 There is a downward trend!
 Forecasted Violent Crimes average count is 626.72, with a 95% confidence interval between 507.50 and 746.07.
-Just for comparison the average count for violent crimes in 2019 was 677.71 So on average, the forecast shows a 50.99 weekly reduction in violent crimes in LA.
+Just for comparison the average count for violent crimes in 2019 was 677.71 So on average, the forecast shows a 50.99 weekly reduction in violent crimes in LA. 
 
 
 Notes:
