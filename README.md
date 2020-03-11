@@ -150,7 +150,14 @@ Crime incident status:
 |UNK            |      30
 
 
-# Crosstab of Violent Crimes for 2019
+# Violent Crimes for 2019 
+
+* 
+There were 35,241 violent crimes reported in 2019.
+* There were an average 2936.75 violent crimes per month.
+* There were an average 677.71 violent crimes per week.
+
+# Violent Crimes for 2019: Area_name vs Month
 |   month |   77th Street |   Central |   Devonshire |   Foothill |   Harbor |   Hollenbeck |   Hollywood |   Mission |   N Hollywood |   Newton |   Northeast |   Olympic |   Pacific |   Rampart |   Southeast |   Southwest |   Topanga |   Van Nuys |   West LA |   West Valley |   Wilshire |
 |--------:|--------------:|----------:|-------------:|-----------:|---------:|-------------:|------------:|----------:|--------------:|---------:|------------:|----------:|----------:|----------:|------------:|------------:|----------:|-----------:|----------:|--------------:|-----------:|
 |       1 |           179 |       175 |           84 |         66 |       72 |           95 |         125 |        93 |            90 |      129 |          90 |       103 |       106 |       117 |         135 |         152 |        65 |         97 |        47 |            74 |         66 |
@@ -166,6 +173,12 @@ Crime incident status:
 |      11 |           167 |       178 |           67 |         77 |       98 |           96 |         100 |        87 |            98 |      112 |          66 |       109 |        93 |       106 |         144 |         144 |        67 |         61 |        75 |            91 |         73 |
 |      12 |           162 |       171 |           79 |         78 |       88 |           99 |         113 |        94 |            96 |       95 |          84 |       144 |       107 |       109 |         134 |         133 |        69 |         60 |        78 |            63 |         74 |
 
+
+# Forecast for 2020
+
+There is a downward trend!
+Forecasted Violent Crimes average count is 626.72, with a 95% confidence interval between 507.50 and 746.07.
+Just for comparison the average count for violent crimes in 2019 was 677.71 So on average, the forecast shows a 50.99 weekly reduction in violent crimes in LA.
 
 
 Notes:
